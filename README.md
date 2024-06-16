@@ -2,7 +2,7 @@
  <img  width="800" height="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logo_blau_uoc.png/800px-Logo_blau_uoc.png">
 </p>
 <h2 align="center">PRA Visualització de Dades</h2>
-<p align="left">Visualització de dades feta amb dades obertes publicades pel govern.</p>
+<p align="left">Arnau Gusart Verdú</p>
 <p align="left">Visualització de dades feta amb dades obertes publicades pel govern.</p>
 <h3 align="center">Visualitzacions de dades</h3>
 <p align="left">- Mapa Estacions Meteorològiques Catalunya <a href="https://htmlpreview.github.io/?https://github.com/Arnasto/PRA_Visualitzacio_Dades/blob/main/hourly_avg_no2_heatmap.html">[Mapa_estacions_Cat.html]</a></p>
