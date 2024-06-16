@@ -1,5 +1,5 @@
 
-[Mapa_estacions_Cat.html](https://htmlpreview.github.io/?https://github.com/Arnasto/PRA_Visualitzacio_Dades/blob/main/hourly_avg_no2_cities2024.html)
+[Mapa_estacions_Cat.html](https://htmlpreview.github.io/?https://github.com/Arnasto/PRA_Visualitzacio_Dades/blob/main/hourly_avg_no2_heatmap.html)
 
 [Promig_Ciutats.html](https://htmlpreview.github.io/?https://github.com/Arnasto/PRA_Visualitzacio_Dades/blob/main/hourly_avg_no2_cities2024.html)
 
